@@ -1,0 +1,70 @@
+body{
+    background:rgb(170, 241, 252);
+}
+
+.logging{
+    max-width: 380px;
+    border-radius: 4px;
+    background: white;
+    height:310px;
+    display:block;
+    margin:-80px auto;
+    
+}
+.number-input{
+    padding:8px;
+    margin:8px;
+    margin-top: 10px;
+    width:90%;
+    border-radius:4px;
+    border:1px solid rgb(219, 216, 216);
+    font-size: 16px;
+    
+    
+}
+.password-input{
+    padding:8px;
+    margin:8px;
+    width:90%;
+    border-radius: 4px;
+    border:1px solid rgb(219, 216, 216);
+    font-size: 16px;
+}
+.login-button{
+    padding:10px;
+    margin:10px;
+    width:94%;
+    background: rgb(19, 114, 239);
+    color:white;
+    border:1px solid rgb(19, 114, 239);
+    border-radius: 4px;
+    font-size: 16px;
+}
+.renew{
+    color:rgb(19, 114, 239);
+    text-align: center;
+}
+.button{
+    margin:20px auto;
+    padding:10px;
+    display:block;
+    background: rgb(7, 208, 7);
+    color:white;
+    width:45%;
+    border-radius: 4px;
+    font-size: 14px;
+    border:1px solid rgb(7, 208, 7);
+    
+}
+hr{
+    color:rgb(219, 216, 216);
+    width:90%;
+}
+h1{
+    color: rgb(19, 114, 239);
+    font-family: sans-serif;
+}
+h3{
+    font-family: sans-serif;
+    font-weight: 500;
+}

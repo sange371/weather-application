@@ -1,0 +1,79 @@
+.weather{
+    background: transparent;
+    height:460px;
+    width:650px;
+    display:block;
+    margin:50px auto;
+    opacity:0.9;
+    
+}
+body{
+    background-image:url(https://media.istockphoto.com/id/1151056603/photo/blue-sky-with-cloud.jpg?s=612x612&w=0&k=20&c=Icz802e1rVJY33wTuAfc6NLpYXr1k6OQxOXk7lCEYKM=);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.city-input{
+    padding:7px;
+    margin:7px;
+    width:55%;
+    border-radius: 4px;
+    font-size:14px;
+    border:1px solid rgb(226, 223, 223);
+    padding-top:10px;
+
+}
+.search-button{
+    padding:7px;
+    margin:7px;
+    border-radius: 4px;
+    font-size:14px;
+    width:15%;
+    background-color: rgb(164, 81, 242);
+    color:white;
+    border:1px solid rgb(164, 81, 242);
+}
+.percentage{
+    color:rgb(0,156,234);
+
+}
+.current-weather{
+    position: relative;
+    right:-400px;
+    bottom:80px;
+}
+.emoji{
+    position:relative;
+    top:-10px;
+}
+.temperature{
+    font-size:60px;
+    font-weight: bold;
+}
+.celcius{
+    font-size:28px;
+    position:relative;
+    top:-25px;
+}
+.coder{
+    margin:60px;
+    
+}
+li{
+    list-style: none;
+    display:inline-block;
+    margin-right:10px;
+    padding:10px;
+    
+    
+}
+h1{
+    font-family:sans-serif;
+    margin:10px;
+    padding-top:15px;
+}
+p{
+    font-family: sans-serif;
+    font-size: medium;
+    line-height: 40px;
+    margin:10px;
+}

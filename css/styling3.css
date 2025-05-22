@@ -1,0 +1,45 @@
+body{
+    background: #d59bf6;
+}
+h2{
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+hr{
+    color: aliceblue;
+}
+.container{
+    max-width: 600px;
+    margin:20px auto;
+    padding:30px 60px;
+    border:2px solid whitesmoke;
+    border-radius: 10px;
+    background: whitesmoke;
+    
+
+}
+.weather{
+    position:absolute;
+    font-size: 12px;
+    width: 14px;
+    height:14px;
+    top: 100px;
+    right: 600px;
+    font-size: 30px;
+}
+
+.coder{
+    font-family: monospace;
+    font-size: smaller;
+}
+.humid{
+    color:#d59bf6;
+}
+.current-weather{
+    font-family: 'Courier New', Courier, monospace;
+    position:flex;
+    justify-content: space-between;
+}
+.searcher{
+    font-size:medium;
+}

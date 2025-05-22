@@ -1,0 +1,82 @@
+.current-weather{
+    border:1px solid white;
+    border-radius: 4px;
+    height:750px;
+    width:500px;
+    background: whitesmoke;
+    margin:50px auto;
+    display:block;
+    opacity:0.8;
+    
+}
+.emoji{
+    position: relative;
+    top:-10px;
+    right:-20px;
+    font-size:100px;
+}
+.temperature{
+    position: relative;
+    right:-140px;
+    font-size:90px;
+    top:-20px;
+}
+.clouds{
+    position:relative;
+    right:-250px;
+    top:-60px;
+    font-size:20px;
+}
+.weather1{
+    display:flex;
+    justify-content: space-evenly;
+    line-height: 25px;
+}
+.weather2{
+    display:flex;
+    justify-content:space-evenly ;
+    line-height: 25px;
+}
+.weather3{
+    background: rgb(203, 200, 200);
+    border-radius: 4px;
+    
+}
+.weather4{
+    background: rgb(203, 200, 200);
+    border-radius:4px;
+
+}
+.weather5{
+    background: rgb(203, 200, 200);
+    border-radius:4px;
+}
+.weather6{
+    background:rgb(203, 200, 200);
+    border-radius:4px;
+}
+.weather7{
+    background:rgb(203, 200, 200);
+    border-radius: 4px;;
+}
+li{
+    list-style: none;
+    font-family: sans-serif;
+    display:inline-block;
+    padding:20px;
+}
+strong{
+    font-size: 30px;
+    font-family:sans-serif;
+    font-weight:150;
+}
+p{
+    font-family:sans-serif;
+}
+h1,h4{
+    font-family:sans-serif;
+}
+body{
+    background-image: url(https://images.pexels.com/photos/66997/pexels-photo-66997.jpeg?auto=compress&cs=tinysrgb&w=1200);
+    background-size: cover;
+}
